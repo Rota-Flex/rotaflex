@@ -67,8 +67,6 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 - [ ] Documentação básica dos scripts utilizados (ex: `rank_portos.py`, `clean_cargas.py`);
 - [ ] Criação de vídeo passo a passo para replicabilidade.
 
----
-
 ## ✅ Sprint 2 – Análise de Eficiência e Movimentação Portuária  
 **Objetivo:** Avaliar a eficiência operacional dos terminais e o volume de movimentações.  
 **Ferramentas:** Python + Power BI  
