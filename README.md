@@ -11,7 +11,7 @@ Nós, alunos do 4º semestre do curso de Logística da Fatec, desenvolvemos este
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Nosso parceiro acadêmico solicitou à equipe uma análise detalhada da eficiência operacional do sistema portuário brasileiro no período de 2014 a 2023, com foco no carregamento de granéis. O estudo abrange três frentes principais.
+Nosso parceiro acadêmico solicitou à equipe uma análise detalhada da eficiência operacional do sistema portuário brasileiro no período de 2023 a 2024, com foco no carregamento de granéis. O estudo abrange três frentes principais.
 Primeiramente, busca-se compreender a variação da prancha média operacional de carregamento de granéis sólidos (t/h) ao longo dos meses dentro do período analisado, desenvolvendo um modelo preditivo baseado em tendências para avaliar o desempenho passado e projetar cenários futuros.
 Em segundo lugar, pretende-se examinar a distribuição estatística dos tempos de operação no berço, identificando padrões e variabilidades que impactam a eficiência do carregamento.
 Por fim, o projeto tem como objetivo ranquear os 10 principais terminais de movimentação de granéis, considerando o número de berços disponíveis e a respectiva prancha média operacional, proporcionando uma visão comparativa do desempenho desses terminais e possibilitando a identificação dos mais eficientes.
