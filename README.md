@@ -51,40 +51,75 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 
 # Backlog do produto
 
-## Sprint 1
-- [ ] Extração de dados do ANTAQ;
-- [ ] Tratamento de dados através do python;
-- [ ] Ranquear portos por peso carga bruta;
-- [ ] Ranquear portos por estado e por local;
-- [ ] Exportar os dados tratados em CSV para o Power BI;
-- [ ] Criar um visual parar a dashbaord;
+## ✅ Sprint 1 – Análise de Cargas & Implementação Inicial  
+**Objetivo:** Compreender e visualizar as principais cargas movimentadas nos portos.  
+**Ferramentas:** Python + Power BI  
+**Fontes:** Dados da ANTAQ  
 
-## Sprint 2
+- [ ] Extração de dados brutos da ANTAQ (CSV/XLS/API);
+- [ ] Tratamento e limpeza dos dados com Python (pandas, numpy);
+- [ ] Classificação e ranqueamento das cargas por volume (tonelagem) e frequência;
+- [ ] Agrupamento por tipo de carga (granel, container, líquidos, etc.);
+- [ ] Ranquear portos por estado e localização;
+- [ ] Exportação dos dados tratados para Power BI;
+- [ ] Criação de visual interativo com as principais cargas movimentadas;
+- [ ] Integração inicial Power BI com filtros por tipo de carga e porto;
+- [ ] Documentação básica dos scripts utilizados (ex: `rank_portos.py`, `clean_cargas.py`);
+- [ ] Criação de vídeo passo a passo para replicabilidade.
+
+---
+
+## ✅ Sprint 2 – Análise de Eficiência e Movimentação Portuária  
+**Objetivo:** Avaliar a eficiência operacional dos terminais e o volume de movimentações.  
+**Ferramentas:** Python + Power BI  
+
+- [ ] Análise de Eficiência: Comparativo de produtividade entre terminais;
+- [ ] Avaliação de Tempos de Operação: Tempos médios de espera, carga e descarga;
+- [ ] Análise de Movimentação: Total de operações mensais e principais portos em quantidade transportada;
+- [ ] Cálculo de produtividade (toneladas por hora, por berço, por equipamento);
+- [ ] Cálculo de tempo médio de operação e espera nos terminais;
+- [ ] Visualização com gráficos de barras, mapas e indicadores de desempenho;
+- [ ] Filtros por porto, região e tipo de carga;
+- [ ] Exportação dos KPIs para Power BI;
 - [ ] Implementação das dashboards exigidas pelo cliente;
-- [ ] Vídeo passo a passo;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Gravação de vídeo demonstrativo da navegação no dashboard;
+- [ ] Ajustes e refinamento conforme feedback;
+- [ ] Documentação dos indicadores e métricas utilizadas.
+
+---
+
+## ✅ Sprint 3 – Análise de Paradas Portuárias  
+**Objetivo:** Diagnosticar os principais motivos de paradas portuárias e suas sazonalidades.  
+**Ferramentas:** Python + Power BI  
+
+- [ ] Identificação dos Top N motivos de parada (ex: manutenção, clima, fila, etc.);
+- [ ] Análise de sazonalidade (correlação com períodos do ano);
+- [ ] Extração e tratamento dos dados de paradas;
+- [ ] Classificação por tipo e duração da parada;
+- [ ] Análise com Python (visualizações com seaborn/matplotlib);
+- [ ] Esboço de layout dos visuais no Power BI;
+- [ ] Visualização por mês, tipo de parada e terminal;
+- [ ] Integração dos dados com painel central;
+- [ ] Criação de vídeo explicando os insights;
+- [ ] Finalização e revisão dos visuais;
+- [ ] Documentação dos scripts utilizados.
+
+---
+
+## ✅ Sprint 4 – DEA Logístico em R + Integração Final  
+**Objetivo:** Avaliar eficiência relativa entre terminais portuários com Análise Envoltória de Dados (DEA).  
+**Ferramentas:** R + Power BI  
+
+- [ ] Coleta e estruturação dos dados de entrada e saída para o DEA;
+- [ ] Implementação do modelo DEA com R (pacotes `Benchmarking` ou `deaR`);
+- [ ] Análise de eficiência dos terminais (portos eficientes vs. ineficientes);
+- [ ] Exportação dos resultados em CSV para integração com Power BI;
+- [ ] Criação de visual com scores de eficiência e benchmarking;
+- [ ] Integração Power BI com script R;
+- [ ] Criação de vídeo de apresentação dos resultados;
+- [ ] Documentação das premissas, variáveis e interpretação do DEA;
+- [ ] Finalização com scripts comentados e organizados para reuso.
+
 
 # Registro das Sprints
 
