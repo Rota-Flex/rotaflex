@@ -40,7 +40,7 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 
 # Conteúdo do Projeto
 
-![Descrição opcional do GIF](https://github.com/Rota-Flex/rotaflex/blob/sprint_2/arquivos/20250518_143715%20(1).gif)
+![Descrição opcional do GIF](https://github.com/Rota-Flex/rotaflex/blob/sprint_3/arquivos/bandicam2025-05-3020-01-10-283-ezgif.com-video-to-gif-converter.gif)
 
 
 ## Tecnologias Utilizadas
@@ -86,7 +86,6 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 - [ ] Ajustes e refinamento conforme feedback;
 - [ ] Documentação dos indicadores e métricas utilizadas.
 
----
 
 ## ✅ Sprint 3 – Análise de Paradas Portuárias  
 **Objetivo:** Diagnosticar os principais motivos de paradas portuárias e suas sazonalidades.  
@@ -104,7 +103,6 @@ Com essa abordagem, o projeto busca fornecer insights estratégicos sobre a efic
 - [ ] Finalização e revisão dos visuais;
 - [ ] Documentação dos scripts utilizados.
 
----
 
 ## ✅ Sprint 4 – DEA Logístico em R + Integração Final  
 **Objetivo:** Avaliar eficiência relativa entre terminais portuários com Análise Envoltória de Dados (DEA).  
