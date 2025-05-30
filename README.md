@@ -1,4 +1,4 @@
-# Análise da Eficiência nos Portos Brasileiros (2014-2023)
+# Análise da Eficiência nos Portos Brasileiros (2023-2024)
 
 Nós, alunos do 4º semestre do curso de Logística da Fatec, desenvolvemos este projeto com o objetivo acadêmico de ampliar nossa capacidade analítica e aprimorar nossas habilidades logísticas, promovendo a prática interdisciplinar. Baseado na metodologia ágil SCRUM, o projeto visa estimular a proatividade, a autonomia, a colaboração e a entrega de resultados, preparando os participantes para desafios reais do mercado.
 
